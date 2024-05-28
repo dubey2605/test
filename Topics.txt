@@ -17,3 +17,6 @@ Political Polarization: Investigate trends in political polarization using data 
 Election Integrity: Discuss the role of data analytics in ensuring the integrity of elections, including detecting fraud, securing voting systems, and promoting transparency.
 
 International Comparisons: Compare data-driven political practices and trends across different countries and regions, highlighting similarities, differences, and lessons learned.
+
+
+Adding this just to test
